@@ -7,4 +7,4 @@ Example file containing article's titles in each line
 ## wordcloud.ipynb
 Code in a jupyter notebook
 
-![alt text]([https://raw.githubusercontent.com/gioguarnieri/wordcloud/main/wordcloud_titles.png])
+![plot]([https://raw.githubusercontent.com/gioguarnieri/wordcloud/main/wordcloud_titles.png])
