@@ -1,0 +1,92 @@
+Flash flood forecasting based on long short-term memory networks
+Forecasting stream water temperature using regression analysis, artificial neural network, and chaotic non-linear dynamic models
+Real-time streamflow forecasting: AI vs. Hydrologic insights
+A dynamic artificial neural network for assessment of land-use change impact on warning lead-time of flood
+Neural network modeling for groundwater-level forecasting in coastal aquifers
+Deep learning with a long short-term memory networks approach for rainfall-runoff simulation
+How well can machine learning models perform without hydrologists? Application of rational feature selection to improve hydrological forecasting
+Daily reservoir inflow forecasting using artificial neural networks with stopped training approach
+Online flood forecasting in fast responding catchments on the basis of a synthesis of artificial neural networks and process models
+Comparison of short-term rainfall prediction models for real-time flood forecasting
+An artificial neural network model for rainfall forecasting in Bangkok, Thailand
+Determination of sensitive variables regardless of hydrological alteration in artificial neural network model of chlorophyll a: case study of Nakdong River
+Quantitative flood forecasting using multisensor data and neural networks
+Prediction of groundwater level in seashore reclaimed land using wavelet and artificial neural network-based hybrid model
+A soil moisture index as an auxiliary ANN input for stream flow forecasting
+Estimation of predictive hydrologic uncertainty using the quantile regression and UNEEC methods and their comparison on contrasting catchments
+Short-term flood forecasting with a neurofuzzy model
+SVM-based model for short-term rainfall forecasts at a local scale in the Mumbai urban area, India
+Flow forecast by SWAT model and ANN in Pracana basin, Portugal
+Artificial intelligence based models for stream-flow forecasting: 2000â€“2015
+A hybrid wavelet–machine learning model for qanat water flow prediction,
+A long Short-Term memory cyclic model with mutual information for hydrology forecasting: A Case study in the xixian basin,
+A machine learning approach for forecasting and visualising flood inundation information,
+A novel deep U-Net-LSTM framework for time-sequenced hydrodynamics prediction of the SUBOFF AFF-8,
+Adjusting wavelet-based multiresolution analysis boundary conditions for long-term streamflow forecasting,
+AI-based techniques for multi-step streamflow forecasts: Application for multi-objective reservoir operation optimization and performance assessment,
+Application of a New Hybrid Deep Learning Model That Considers Temporal and Feature Dependencies in Rainfall–Runoff Simulation,
+Data-Driven Flood Alert System (FAS) Using Extreme Gradient Boosting (XGBoost) to Forecast Flood Stages,
+Deep insight into daily runoff forecasting based on a CNN-LSTM model,
+Development of an Artificial Neural Network Algorithm Embedded in an On-Site Sensor for Water Level Forecasting,
+Differing roles of base and fast flow in ensemble seasonal streamflow forecasting: An experimental investigation,
+Discharge forecasting using an Online Sequential Extreme Learning Machine (OS-ELM) model: A case study in Neckar River, Germany,
+Evolutionary artificial intelligence model via cooperation search algorithm and extreme learning machine for multiple scales nonstationary hydrological time series prediction,
+Flash flood forecasting using support vector regression model in a small mountainous catchment,
+Hybrid Surrogate Model for Timely Prediction of Flash Flood Inundation Maps Caused by Rapid River Overflow,
+Hydrological time series forecasting via signal decomposition and twin support vector machine using cooperation search algorithm for parameter identification,
+Multi-objective robust optimization of reservoir operation for real-time flood control under forecasting uncertainty,
+Neural Structures to Predict River Stages in Heavily Urbanized Catchments,
+Non-intrusive reduced-order modeling using uncertainty-aware Deep Neural Networks and Proper Orthogonal Decomposition: Application to flood modeling,
+Parallel computing and swarm intelligence based artificial intelligence model for multi-step-ahead hydrological time series prediction,
+Rapid spatio-temporal flood prediction and uncertainty quantification using a deep learning method,
+Towards a better consideration of rainfall and hydrological spatial features by a deep neural network model to improve flash floods forecasting: case study on the Gardon basin, France,
+A comparison of particle swarm optimization and genetic algorithm for daily rainfall-runoff modelling: a case study for Southeast Queensland, Australia
+A deep learning approach for hydrological time-series prediction: A case study of Gilgit river basin
+A Genetic Programming Approach to System Identification of Rainfall-Runoff Models
+A Hybrid ANFIS-GA Approach for Estimation of Hydrological Time Series
+A new intelligent method for monthly streamflow prediction: hybrid wavelet support vector regression based on grey wolf optimizer (WSVRâ€“GWO)
+A simple and efficient rainfallâ€“runoff model based on supervised brain emotional learning
+A stream prediction model based on attention-LSTM
+An assessment of multi-layer perceptron networks for streamflow forecasting in large-scale interconnected hydrosystems
+An Ensemble Hybrid Forecasting Model for Annual Runoff Based on Sample Entropy, Secondary Decomposition, and Long Short-Term Memory Neural Network
+An Ensemble Modeling Approach to Forecast Daily Reservoir Inflow Using Bidirectional Long- and Short-Term Memory , and Energy Entropy Method
+An improved long short-term memory network for streamflow forecasting in the upper Yangtze River
+Cause-driven Streamflow Forecasting Framework Based on Linear Correlation Reconstruction and Long Short-term Memory
+Chaotic feature analysis and forecasting of Liujiang River runoff
+Comparison of different ensemble precipitation forecast system evaluation, integration and hydrological applications
+Comparison of different methodologies for rainfallâ€“runoff modeling: machine learning vs conceptual approach
+Cyber-physical-system-based smart water system to prevent flood hazards
+Data-Driven Approach for the Rapid Simulation of Urban Flood Prediction
+Data-driven approaches for runoff prediction using distributed data
+Effect of Gradient Descent Optimizers and Dropout Technique on Deep Learning LSTM Performance in Rainfall-runoff Modeling
+Effects of Training Data on the Learning Performance of LSTM Network for Runoff Simulation
+Evaluation of deep learning algorithm for inflow forecasting: a case study of Durian Tunggal Reservoir, Peninsular Malaysia
+Evaluation of WRF and artificial intelligence models in short-term rainfall, temperature and flood forecast (case study)
+Exploring the best sequence LSTM modeling architecture for flood prediction
+Feasibility analysis on the construction of a web solution for hydrometeorological forecasting considering water body management and indicators for the SARS-COV-2 pandemic
+Flood Frequency Modeling and Prediction of Beki and Pagladia Rivers Using Deep Learning Approach
+Flood Hazard Rating Prediction for Urban Areas Using Random Forest and LSTM
+Forecasting Daily Flood Water Level Using Hybrid Advanced Machine Learning Based Time-Varying Filtered Empirical Mode Decomposition Approach
+Forecasting reservoir inflow combining Exponential smoothing, ARIMA, and LSTM models
+Forecasting Water Levels in Krasnodar Krai Rivers with the Use of Machine Learning
+Green Roof Hydrological Modelling With GRU and LSTM Networks
+High temporal resolution rainfallâ€“runoff modeling using long-short-term-memory (LSTM) networks
+Hybrid particle swarm optimization and group method of data handling for short-term prediction of natural daily streamflows
+Improving Short-range Reservoir Inflow Forecasts with Machine Learning Model Combination
+Integrated nonlinear autoregressive neural network and Holt winters exponential smoothing for river streaming flow forecasting at Aswan High
+Long short-term memory (LSTM) recurrent neural network for low-flow hydrological time series forecasting
+Long short-term memory integrating moving average method for flood inundation depth forecasting based on observed data in urban area
+Multi-step-ahead water level forecasting for operating sluice gates in Hai Duong, Vietnam
+Performance Comparison of an LSTM-based Deep Learning Model versus Conventional Machine Learning Algorithms for Streamflow Forecasting
+Prediction of storm surge and inundation using climatological datasets for the Indian coast using soft computing techniques
+Rapid forecasting of urban flood inundation using multiple machine learning models
+River flow modelling: comparison of performance and evaluation of uncertainty using data-driven models and conceptual hydrological model
+Runoff Forecasting using Convolutional Neural Networks and optimized Bi-directional Long Short-term Memory
+Short to Long-Term Forecasting of River Flows by Heuristic Optimization Algorithms Hybridized with ANFIS
+Short-Term Predictions of Hydrological Events on an Urbanized Watershed Using Supervised Classification
+Short-term Runoff Prediction Optimization Method Based on BGRU-BP and BLSTM-BP Neural Networks
+Short-Term Streamflow Forecasting Using the Feature-Enhanced Regression Model
+Spatio temporal hydrological extreme forecasting framework using LSTM deep learning model
+Streamflow Forecasting Using Four Wavelet Transformation Combinations Approaches with Data-Driven Models: A Comparative Study
+Streamflow modelling and forecasting for Canadian watersheds using LSTM networks with attention mechanism
+The Performance Analysis of Robust Local Mean Mode Decomposition Method for Forecasting of Hydrological Time Series
